@@ -8,3 +8,4 @@ Hi! I'm Carl, a dedicated student and game development enthusiast currently base
 
 ### Check out some of these repositories to see what I've made (or currently making!):
 [![AssemblyRepo](https://github-readme-stats.vercel.app/api/pin/?username=Fredrick117&repo=Assembly_Unity)](https://github.com/Fredrick117/Assembly_Unity)
+[![AssemblyRepo](https://github-readme-stats.vercel.app/api/pin/?username=Fredrick117&repo=Sandworm)](https://github.com/Fredrick117/Sandworm)
